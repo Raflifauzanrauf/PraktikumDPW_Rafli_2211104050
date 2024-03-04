@@ -1,0 +1,26 @@
+.topTitle{
+    color: red;
+    text-align: center;
+    justify-content: center;
+    font-size: 200px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.descTitle{
+    color: aqua;
+    text-align: center;
+    justify-content: center;
+    font-size: 100px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.colorTitle{
+    color: red;
+    text-align: center;
+    justify-content: center;
+    font-size: 100px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
